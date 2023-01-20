@@ -6,6 +6,16 @@
 ![image](https://github.com/1kuzus/HZK-BorlandC/blob/main/img/2.png)
 
 ## 说明
+|缩写|说明|
+|:-:|:-:|
+|ASC|ASCII码库|
+|HZK|汉字库|
+|S|宋体|
+|F|仿宋|
+|H|黑体|
+|K|楷体|
+|\_B|Bold 粗体|
+|\_T|Traditional 繁体|
 
 <br>
 
