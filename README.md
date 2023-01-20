@@ -6,6 +6,8 @@
 ![image](https://github.com/1kuzus/HZK-BorlandC/blob/main/img/2.png)
 
 ## 说明
+`font`文件夹中是汉字库文件  
+
 |缩写|说明|
 |:-:|:-:|
 |ASC|ASCII码库|
