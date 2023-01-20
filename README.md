@@ -1,11 +1,12 @@
 # HZK-BorlandC
-`汉字库及在BorlandC环境下运行的示例工程`
+`汉字库及在BorlandC+DosBox环境下运行的示例工程`
 
 ## 运行效果
 ![image](https://github.com/1kuzus/HZK-BorlandC/blob/main/img/1.png)
 ![image](https://github.com/1kuzus/HZK-BorlandC/blob/main/img/2.png)
 
 ## 说明
+`code`文件夹中是在BorlandC+DosBox环境下的调用接口，包括头文件和源文件  
 `font`文件夹中是汉字库文件  
 
 |缩写|说明|
