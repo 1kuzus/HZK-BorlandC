@@ -3,6 +3,8 @@
 
 ## 运行效果
 
+![image](https://github.com/1kuzus/HZK-BorlandC/blob/main/img/1.png)
+
 <br>
 
 **1kuzus**
